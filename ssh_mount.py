@@ -225,4 +225,3 @@ if __name__ == "__main__":
             ret = unmount_volume(os.environ.get("PAM_USER"))
 
     sys.exit(ret)
- ✔ ⚡ root@vps  /var/l
